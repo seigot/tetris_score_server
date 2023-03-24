@@ -425,3 +425,4 @@ null, null, -, 0, -, github_url_string_NG, -, -, -, -, -, -, -, -, -, -, -, -, -
 2023/03/25_1:50:39, https://github.com/narumakky/passive_child, -, 0, -, github_url_string_NG, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
 2023/03/25_1:51:11, https://github.com/yuin0/tetris, tetris_v4, 0, 3, python_start.py_NG, 1, predict, weight/DQN/best_weight.pt, -, -, -, -, -, -, -, -, -, -, -, -
 2023/03/25_1:51:39, https://github.com/yuin0/tetris, master, 22795, 2, SUCCESS, 1000, default, outputs/latest/best_weight.pt, 700, 300, 700, 18200, 0, 2895, 176, 10, 20559.30, 1751.28, 22795, 17332
+2023/03/25_1:51:52, https://github.com/yuin0/tetris, master, 15572, 3, SUCCESS, 1000, default, outputs/latest/best_weight.pt, 2800, 2400, 1400, 6500, 0, 2472, 176, 10, 12783.80, 2056.09, 15572, 10098
