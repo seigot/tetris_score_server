@@ -423,3 +423,4 @@ null, null, -, 0, -, github_url_string_NG, -, -, -, -, -, -, -, -, -, -, -, -, -
 2023/03/25_1:49:59, https://github.com/obo-koki/tetris, level3_v4, 19594, 3, SUCCESS, 1000, default, outputs/latest/best_weight.pt, 1500, 1800, 3500, 10400, 0, 2394, 180, 10, 16614.80, 1816.90, 19594, 14005
 2023/03/25_1:50:14, https://github.com/obo-koki/tetris, level2_v4, 24816, 2, SUCCESS, 1000, default, outputs/latest/best_weight.pt, 0, 0, 0, 22100, 0, 2716, 180, 10, 21713.00, 2543.73, 24816, 17533
 2023/03/25_1:50:39, https://github.com/narumakky/passive_child, -, 0, -, github_url_string_NG, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+2023/03/25_1:51:11, https://github.com/yuin0/tetris, tetris_v4, 0, 3, python_start.py_NG, 1, predict, weight/DQN/best_weight.pt, -, -, -, -, -, -, -, -, -, -, -, -
