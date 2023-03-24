@@ -409,3 +409,4 @@ null, null, -, 0, -, github_url_string_NG, -, -, -, -, -, -, -, -, -, -, -, -, -
 2023/03/25_1:44:15, https://github.com/kokko1023/tetris, dev-lv3, 0, 3, python_start.py_NG, 1, predict, outputs/2023-03-19-10-35-46/trained_model/best_weight.pt, -, -, -, -, -, -, -, -, -, -, -, -
 2023/03/25_1:44:56, https://github.com/kokko1023/tetris, dev-lv3, 0, 3, python_start.py_NG, 1000, predict, outputs/2023-03-19-10-35-46/trained_model/best_weight.pt, -, -, -, -, -, -, -, -, -, -, -, -
 2023/03/25_1:45:26, https://github.com/cheerful-0329/tetris, chipL3, 0, 3, python_start.py_NG, 1000, predict, weight/DQN/best_weight.pt, -, -, -, -, -, -, -, -, -, -, -, -
+2023/03/25_1:45:54, https://github.com/cheerful-0329/tetris, chipL2, 0, 2, python_start.py_NG, 1000, predict, weight/DQN/best_weight.pt, -, -, -, -, -, -, -, -, -, -, -, -
