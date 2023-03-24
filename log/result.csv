@@ -420,3 +420,4 @@ null, null, -, 0, -, github_url_string_NG, -, -, -, -, -, -, -, -, -, -, -, -, -
 2023/03/25_1:48:58, https://github.com/hideokuda/tetris, master, 13497, 2, SUCCESS, 1000, default, outputs/latest/best_weight.pt, 4300, 2100, 1400, 2600, 0, 3097, 180, 10, 10686.70, 1895.29, 13497, 7013
 2023/03/25_1:49:21, https://github.com/km-mssh/tetris, test, 0, 2, python_start.py_NG, 1000, predict, outputs/latest/best_weight.pt, -, -, -, -, -, -, -, -, -, -, -, -
 2023/03/25_1:49:41, https://github.com/obo-koki/tetris, level4, 14109, 3, SUCCESS, 1, default, outputs/latest/best_weight.pt, 3800, 2100, 2100, 3900, 0, 2209, 180, 10, 11779.80, 1997.64, 14109, 8998
+2023/03/25_1:49:59, https://github.com/obo-koki/tetris, level3_v4, 19594, 3, SUCCESS, 1000, default, outputs/latest/best_weight.pt, 1500, 1800, 3500, 10400, 0, 2394, 180, 10, 16614.80, 1816.90, 19594, 14005
