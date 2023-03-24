@@ -412,3 +412,4 @@ null, null, -, 0, -, github_url_string_NG, -, -, -, -, -, -, -, -, -, -, -, -, -
 2023/03/25_1:45:54, https://github.com/cheerful-0329/tetris, chipL2, 0, 2, python_start.py_NG, 1000, predict, weight/DQN/best_weight.pt, -, -, -, -, -, -, -, -, -, -, -, -
 2023/03/25_1:46:15, https://github.com/iguzzi/tetris, iguzzi02, 12365, 3, SUCCESS, 1, default, outputs/latest/best_weight.pt, 3000, 3000, 2100, 2600, 0, 1665, 180, 10, 7514.00, 3254.48, 12365, 1695
 2023/03/25_1:46:35, https://github.com/iguzzi/tetris, iguzzi02, 12833, 3, SUCCESS, 1000, default, outputs/latest/best_weight.pt, 5100, 2100, 1400, 1300, 0, 2933, 180, 10, 10103.10, 2909.95, 12833, 2960
+2023/03/25_1:47:01, https://github.com/Takomaron/tetris, Retry07, 0, 3, python_start.py_NG, 1, predict, weight/DQN/best_weight.pt, -, -, -, -, -, -, -, -, -, -, -, -
