@@ -430,3 +430,4 @@ null, null, -, 0, -, github_url_string_NG, -, -, -, -, -, -, -, -, -, -, -, -, -
 2023/03/25_1:52:11, https://github.com/Tackey07/tetris, master, 20835, 2, SUCCESS, 1000, default, outputs/latest/best_weight.pt, 600, 1500, 700, 15600, 0, 2435, 180, 10, 14461.20, 3639.36, 20835, 8985
 2023/03/25_1:52:18, https://github.com/Tackey07/tetris, master, 24910, 1, SUCCESS, 1000, default, outputs/latest/best_weight.pt, 0, 0, 0, 22100, 0, 2810, 180, 10, 24910.00, 0.00, 24910, 24910
 2023/03/25_1:52:43, https://github.com/nishidasat/tetris, master, -1427, 2, SUCCESS, 1000, default, outputs/latest/best_weight.pt, 100, 0, 0, 0, -3500, 1973, 180, 10, -1740.10, 290.97, -1427, -2106
+2023/03/25_1:52:53, https://github.com/nishidasat/tetris, master, -1412, 1, SUCCESS, 1000, default, outputs/latest/best_weight.pt, 100, 0, 0, 0, -3500, 1988, 180, 10, -1656.00, 245.59, -1412, -2127
