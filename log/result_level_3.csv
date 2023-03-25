@@ -141,3 +141,4 @@ DATETIME, REPOSITORY_URL, BRANCH, SCORE, LEVEL, RESULT, DROP_INTERVAL, VALUE_MOD
 2023/03/25_1:52:05, https://github.com/Tackey07/tetris, master, 9175, 3, SUCCESS, 1000, default, outputs/latest/best_weight.pt, 5300, 1500, 700, 0, -500, 2175, 180, 10, 6883.10, 1504.31, 9175, 4427
 2023/03/25_1:54:11, https://github.com/cookie4869/tetris, cookie04_03, 16522, 3, SUCCESS, 1000, predict, outputs/latest/best_weight.pt, 2200, 2700, 2800, 6500, 0, 2322, 179, 10, 12787.40, 2209.42, 16522, 8689
 2023/03/25_1:54:32, https://github.com/isshy-you/tetris, ish08b, 12962, 3, SUCCESS, 1, default, outputs/latest/best_weight.pt, 1600, 2400, 1400, 6500, -500, 1562, 180, 10, 7925.80, 2906.52, 12962, 3914
+2023/03/25_1:54:53, https://github.com/mattshamrock/tetris, level_4, 12839, 3, SUCCESS, 1, default, outputs/latest/best_weight.pt, 2400, 5100, 2100, 1300, 0, 1939, 180, 10, 11108.20, 1364.19, 12839, 8952
